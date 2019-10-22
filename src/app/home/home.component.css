@@ -1,0 +1,79 @@
+  img{
+    max-width: 100%;
+  }
+  .meet_our_team {
+      text-align: center;
+      padding: 60px 0;
+  }
+
+  .meet_our_team h2 {
+      font-size: 40px;
+      color: #45c4e9;
+      font-weight: 800;
+      text-align: center;
+  }
+  .meet_our_team p {
+      font-size: 15px;
+      color: #404040;
+      font-weight: 500;
+      padding-bottom: 0;
+      margin-bottom: 0;
+      padding: 0 10px;
+  }
+
+  .our_team_inner h3 {
+      font-size: 18px;
+      line-height: 20px;
+      color: #45c4e9;
+      text-align: center;
+      font-weight: 600;
+      margin: 0;
+      padding-bottom: 7px;
+      padding-top: 30px;
+  }
+
+  .our_team_inner label {
+      font-size: 14px;
+      color: #626262;
+      text-align: center;
+      font-weight: 500;
+  }
+
+  .our_team_inner {
+      background: #fff;
+      box-shadow: 0px 0px 4px 3px #eaeaea;
+      padding-top: 0;
+      padding-bottom: 40px;
+      border-radius: 20px;
+      overflow: hidden;
+  }
+  .our_team_inner:hover {
+      box-shadow: 0px 14px 13px 6px #eaeaea;
+  }
+  .heading_text button {
+      padding: 16px 30px;
+      background: #45c3e9;
+      outline: none;
+      border: none;
+      margin-top: 14px;
+      cursor: pointer;
+      font-size: 16px;
+      line-height: 27px;
+      color: rgb(255,255,255);
+      font-weight: 500;
+      text-transform: uppercase;
+      border-radius: 8px;
+  }
+  .heading_text h1 {
+      font-size: 33px;
+      color: #474747;
+      font-weight: 800;
+      padding: 15px 0;
+  }
+  .main_section .row {
+    align-items: center;
+    text-align: center;
+  }
+  .meet_our_team p.small_head{
+    margin-bottom: 40px;
+  }

@@ -1,0 +1,53 @@
+{
+    "menu": {
+    "Panoramics": {
+    "thumbnail": "../../assets/images/panos.jpg",
+    "item": ["shop"]
+    },
+    "Photorealism": {
+    "thumbnail": "../../assets/images/photorealism.jpg",
+    "item": [
+    "kitchenLargeWideView",
+    "genzon_kitchen_small"
+    ]
+    },
+    "Industrial 360s": {
+    "thumbnail": "../../assets/images/360s.jpg",
+    "item": [
+    "Cambro_Insulated_Beverage_Container",
+    "blueTiltTrolley",
+    "toolbox"
+    ]
+    }
+    },
+    "display": [
+    {
+    "id": "shop",
+    "title": "shop display",
+    "thumbnail": "../../assets/images/360s_thumb.jpg"
+    },
+    {
+    "id": "kitchenLargeWideView",
+    "title": "Kitchen wide view",
+    "thumbnail": "../../assets/images/kitchenLargeWideView_thumb.jpg"
+    },
+    {
+    "id": "genzon_kitchen_small",
+    "title": "Small kitchen",
+    "thumbnail": "../../assets/images/genzon_kitchen_small_thumb.jpg"
+    },
+    {
+    "id": "Cambro_Insulated_Beverage_Container",
+    "title": "Beverage container",
+    "thumbnail": "../../assets/images/Cambro_Insulated_Beverage_Container_thumb.jpg"
+    }, {
+    "id": "blueTiltTrolley",
+    "title": "Blue tilt trolley",
+    "thumbnail": "../../assets/images/blueTiltTrolley_thumb.jpg"
+    }, {
+    "id": "toolbox",
+    "title": "Tactix toolbox",
+    "thumbnail": "../../assets/images/toolbox_thumb.jpg"
+    }
+    ]
+}
